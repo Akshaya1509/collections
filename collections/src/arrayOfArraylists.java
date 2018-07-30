@@ -12,5 +12,6 @@ class arrayOfArraylists{
 	
 	list1[0].add(list2);
 	System.out.println("list1 :"+list1);
+	System.out.println();
 }
 }

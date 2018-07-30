@@ -55,6 +55,7 @@ class arrayList{
 				iterator.remove();
 			}
 			System.out.println("element : "+element);
+			System.out.println();
 		}
 	}
 	
